@@ -1,3 +1,3 @@
 - Hi, I’m @varunsharma6679
 - I’m interested in learning program_language
-- I’m currently learning python
+- I’m currently learning Python
